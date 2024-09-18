@@ -31,7 +31,7 @@ And You Easyly Uplode Target Web Server or URL Attacking or Defaceing paylodes B
 Install my-project with Java-Script And Some Modeuls Requrements. For Properliy Open This Python Base Modeul Tool.....
 
 ```bash
-Find  a Website Uploder (Panel) then uploder your base like JPG/PNG/PDF 
+Find  a Website Uploder (Panel) then uplode your Shell base like JPG/PNG/PDF 
 
 Other Way To Injection a Paylode like Brup-Suite... 
 
